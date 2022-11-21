@@ -6,7 +6,3 @@
 
 Mitt enkla repo
 
-´´´mermaid
-erDiagram 
-	CUSOMER ||--o{ORDER : places
-	ORDER
