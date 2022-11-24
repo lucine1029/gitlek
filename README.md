@@ -17,18 +17,18 @@ Mitt enkla repo
 5. Fifth item
 6. Sixth item
 
-´´´mermaid
+~~~mermaid
 erDiagram
     CUSTOMER ||--o{ ORDER : places
     ORDER ||--|{ LINE-ITEM : contains
     CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
-´´´
+~~~
 
-´´´java
+~~~java
 public calss Myclass {
 
   public static void main(String[] args){
     System.out.println("Hello World");
   }
  }
-´´´
+~~~
